@@ -5,12 +5,18 @@
 
 ### installation
 
-``` shell
- Download the executable program for the linux version: https://github.com/vasblock/VASChain/ubuntu-14/16/18.zip
-  Installation and running dependencies: curl -sL https://github.com/vasblock/VASChain/raw/master/env.sh | sudo -E bash -
+ Download the executable program for the linux version:
+
+ https://github.com/vasblock/VASChain/ubuntu-14/16/18.zip
+
+ Installation and running dependencies: 
+
+```bash
+curl -sL https://github.com/vasblock/VASChain/raw/master/env.sh | sudo -E bash -
+```
+
   Execute the program using vaschaind/vaschain-cli using the terminal command window
   If you want to run the program more conveniently, you can copy the executable to /usr/lib and use chmod to delegate it, you can use the vaschaind/vaschain-cli program in any directory.
-```
 
 #### start up
 
@@ -34,11 +40,9 @@
 
 ### installation
 
-``` shell
  Download https://github.com/vasblock/VASChain/mac.zip
  Unzip mac.zip and enter
  Execute the program using vaschaind/vaschain-cli using the terminal command window
-```
 
 #### start up
 
@@ -63,11 +67,9 @@
 
 ### installation
 
-``` shell
 Download https://github.com/vasblock/VASChain/win.zip
 Unzip win.zip and enter
 Execute the program using vaschaind.exe/vaschain-cli.exe using the cmd command window
-```
 
 #### start up
 
