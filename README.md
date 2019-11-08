@@ -7,7 +7,11 @@
 
  Download the executable program for the linux version:
 
- https://github.com/vasblock/VASChain/ubuntu-14/16/18.zip
+ https://github.com/vasblock/VASChain/raw/master/ubuntu-14.zip
+
+ https://github.com/vasblock/VASChain/raw/master/ubuntu-16.zip
+
+ https://github.com/vasblock/VASChain/raw/master/ubuntu-18.zip
 
  Installation and running dependencies: 
 
@@ -40,7 +44,7 @@ curl -sL https://github.com/vasblock/VASChain/raw/master/env.sh | sudo -E bash -
 
 ### installation
 
- Download https://github.com/vasblock/VASChain/mac.zip
+ Download https://github.com/vasblock/VASChain/raw/master/mac.zip
  Unzip mac.zip and enter
  Execute the program using vaschaind/vaschain-cli using the terminal command window
 
@@ -67,7 +71,7 @@ curl -sL https://github.com/vasblock/VASChain/raw/master/env.sh | sudo -E bash -
 
 ### installation
 
-Download https://github.com/vasblock/VASChain/win.zip
+Download https://github.com/vasblock/VASChain/raw/master/win.zip
 Unzip win.zip and enter
 Execute the program using vaschaind.exe/vaschain-cli.exe using the cmd command window
 
